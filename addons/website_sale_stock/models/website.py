@@ -21,7 +21,7 @@ class Website(models.Model):
             self.warehouse_id and self.warehouse_id.id or
             self.env['ir.default'].get('sale.order', 'warehouse_id', company_id=self.company_id.id) or
             self.env['ir.default'].get('sale.order', 'warehouse_id') or
-            self.env['stock.warehouse'].sudo().search([('company_id', '=', self.company_id.id)], limit=1).id
+            self.env['website'].get_current_website().warehouse_id.id
         )
 
     def sale_get_order(self, force_create=False, code=None, update_pricelist=False, force_pricelist=False):
