@@ -95,7 +95,7 @@ msgid ""
 "                                        <br/>"
 msgstr ""
 "<span class=\"o_form_label\">\n"
-"                                            Sociétés\n"
+"                                            Communes\n"
 "                                        </span>\n"
 "                                        <br/>"
 
@@ -204,7 +204,7 @@ msgstr "Attacher des documents Google à n'importe quel enregistrement"
 msgid "Automatically enrich your contact base with company data"
 msgstr ""
 "Enrichissez automatiquement votre base de contacts avec des données sur les "
-"entreprises"
+"communes"
 
 #. module: base_setup
 #: model_terms:ir.ui.view,arch_db:base_setup.res_config_settings_view_form
@@ -213,7 +213,7 @@ msgid ""
 "companies"
 msgstr ""
 "Générez automatiquement des documents de contrepartie pour les commandes / "
-"factures entre les entreprises"
+"factures entre les communes"
 
 #. module: base_setup
 #: model_terms:ir.ui.view,arch_db:base_setup.res_config_settings_view_form
@@ -241,22 +241,22 @@ msgstr "Pads collaboratifs"
 #. module: base_setup
 #: model_terms:ir.ui.view,arch_db:base_setup.res_config_settings_view_form
 msgid "Companies"
-msgstr "Sociétés"
+msgstr "Communes"
 
 #. module: base_setup
 #: model:ir.model.fields,field_description:base_setup.field_res_config_settings__company_id
 msgid "Company"
-msgstr "Société"
+msgstr "Commune"
 
 #. module: base_setup
 #: model:ir.model.fields,field_description:base_setup.field_res_config_settings__company_informations
 msgid "Company Informations"
-msgstr "Informations sur la société"
+msgstr "Informations sur la commune"
 
 #. module: base_setup
 #: model:ir.model.fields,field_description:base_setup.field_res_config_settings__company_name
 msgid "Company Name"
-msgstr "Nom de la société"
+msgstr "Nom de la commune"
 
 #. module: base_setup
 #: model:ir.model,name:base_setup.model_res_config_settings
@@ -428,7 +428,7 @@ msgstr "Intégrations"
 #. module: base_setup
 #: model_terms:ir.ui.view,arch_db:base_setup.res_config_settings_view_form
 msgid "Inter-Company Transactions"
-msgstr "Opérations inter-entreprises"
+msgstr "Opérations inter-communes"
 
 #. module: base_setup
 #. openerp-web
@@ -470,12 +470,12 @@ msgstr "Charger les données de démonstration"
 #. module: base_setup
 #: model_terms:ir.ui.view,arch_db:base_setup.res_config_settings_view_form
 msgid "Manage Companies"
-msgstr "Gérer les sociétés"
+msgstr "Gérer les communes"
 
 #. module: base_setup
 #: model:ir.model.fields,field_description:base_setup.field_res_config_settings__module_inter_company_rules
 msgid "Manage Inter Company"
-msgstr "Gérer des Intersociétés"
+msgstr "Gérer des Inter-communes"
 
 #. module: base_setup
 #: model_terms:ir.ui.view,arch_db:base_setup.res_config_settings_view_form
@@ -490,7 +490,7 @@ msgstr "Gérer les utilisateurs"
 #. module: base_setup
 #: model_terms:ir.ui.view,arch_db:base_setup.res_config_settings_view_form
 msgid "Multi-Company"
-msgstr "Multi-sociétés"
+msgstr "Multi-communes"
 
 #. module: base_setup
 #: model:ir.model.fields,field_description:base_setup.field_res_config_settings__group_multi_currency
@@ -505,7 +505,7 @@ msgstr "Nombre d'utilisateurs actifs"
 #. module: base_setup
 #: model:ir.model.fields,field_description:base_setup.field_res_config_settings__company_count
 msgid "Number of Companies"
-msgstr "Nombe de sociétés"
+msgstr "Nombe de communes"
 
 #. module: base_setup
 #: model:ir.model.fields,field_description:base_setup.field_res_config_settings__language_count

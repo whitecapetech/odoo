@@ -3519,7 +3519,7 @@ msgstr "حدث شيء فظيع"
 #: code:addons/web/static/src/js/services/crash_manager.js:0
 #, python-format
 msgid "Something went wrong !"
-msgstr ""
+msgstr "! حدث خطأ ما"
 
 #. module: web
 #. openerp-web
