@@ -10836,7 +10836,7 @@ msgstr ""
 #. module: base
 #: model_terms:ir.ui.view,arch_db:base.view_users_form
 msgid "Allowed Companies"
-msgstr "Sociétés autorisées"
+msgstr "Communes autorisées"
 
 #. module: base
 #: model:ir.module.module,summary:base.module_stock_barcode_quality_control
@@ -12724,7 +12724,7 @@ msgstr "Comores"
 #: model_terms:ir.ui.view,arch_db:base.view_company_tree
 #: model_terms:ir.ui.view,arch_db:base.view_res_partner_filter
 msgid "Companies"
-msgstr "Sociétés"
+msgstr "Communes"
 
 #. module: base
 #: model_terms:ir.ui.view,arch_db:base.view_users_form
@@ -12753,7 +12753,7 @@ msgstr "Nombre de sociétés"
 #: model_terms:ir.ui.view,arch_db:base.view_users_search
 #, python-format
 msgid "Company"
-msgstr "Société"
+msgstr "Commune"
 
 #. module: base
 #: model_terms:ir.ui.view,arch_db:base.onboarding_company_step
@@ -14015,7 +14015,7 @@ msgstr "Fusionner d'autres contacts"
 #. module: base
 #: model_terms:ir.ui.view,arch_db:base.view_users_form
 msgid "Default Company"
-msgstr "Société par défaut"
+msgstr "Commune par défaut"
 
 #. module: base
 #: model:ir.model.fields,field_description:base.field_ir_filters__is_default
@@ -20434,7 +20434,7 @@ msgstr "Mme"
 #: model_terms:ir.ui.view,arch_db:base.view_users_form
 #: model:res.groups,name:base.group_multi_company
 msgid "Multi Companies"
-msgstr "Multi Sociétés"
+msgstr "Multi Communes"
 
 #. module: base
 #: model:res.groups,name:base.group_multi_currency
@@ -26882,12 +26882,12 @@ msgstr "État"
 #. module: base
 #: model:ir.model.fields,field_description:base.field_res_country_state__code
 msgid "State Code"
-msgstr "Code de l'État"
+msgstr "Code"
 
 #. module: base
 #: model:ir.model.fields,field_description:base.field_res_country_state__name
 msgid "State Name"
-msgstr "Nom de l'État"
+msgstr "Wilaya"
 
 #. module: base
 #: model:res.country,name:base.ps
@@ -26902,7 +26902,7 @@ msgstr "Status des étapes d'intégration de la société"
 #. module: base
 #: model:ir.model.fields,field_description:base.field_res_country__state_ids
 msgid "States"
-msgstr "États"
+msgstr "Wilaya"
 
 #. module: base
 #: model:ir.model.fields,field_description:base.field_base_language_install__state
@@ -29415,7 +29415,7 @@ msgstr "Utilisateurs"
 #. module: base
 #: model:ir.ui.menu,name:base.menu_users
 msgid "Users & Companies"
-msgstr "Utilisateurs et sociétés"
+msgstr "Utilisateurs et communes"
 
 #. module: base
 #: model:ir.model,name:base.model_res_users_log
