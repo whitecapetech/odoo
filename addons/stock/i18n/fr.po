@@ -6780,7 +6780,7 @@ msgstr "Référence de transfert"
 #: model:ir.ui.menu,name:stock.all_picking
 #: model_terms:ir.ui.view,arch_db:stock.procurement_group_form_view
 msgid "Transfers"
-msgstr "Transferts"
+msgstr "Mouvements de stock"
 
 #. module: stock
 #: model_terms:ir.actions.act_window,help:stock.action_picking_form
