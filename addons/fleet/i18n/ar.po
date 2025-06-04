@@ -393,7 +393,7 @@ msgstr "ضبط الإعدادات"
 #. module: fleet
 #: model:ir.ui.menu,name:fleet.fleet_configuration
 msgid "Configuration"
-msgstr "إعداد"
+msgstr "إعدادات مجال أسطول المركبات"
 
 #. module: fleet
 #: model:ir.model,name:fleet.model_res_partner
@@ -2327,7 +2327,7 @@ msgstr "تكاليف المركبات"
 #: model:ir.ui.menu,name:fleet.fleet_vehicle_log_fuel_menu
 #: model_terms:ir.ui.view,arch_db:fleet.fleet_vehicle_log_fuel_view_search
 msgid "Vehicles Fuel Logs"
-msgstr "سجلات وقود المركبات"
+msgstr "سجلات الوقود الداخلية"
 
 #. module: fleet
 #: model:ir.actions.act_window,name:fleet.fleet_vehicle_model_action
@@ -2345,7 +2345,7 @@ msgstr "عداد مسافات المركبات"
 #: model:ir.actions.act_window,name:fleet.fleet_vehicle_log_services_action
 #: model:ir.ui.menu,name:fleet.fleet_vehicle_log_services_menu
 msgid "Vehicles Services Logs"
-msgstr "سجلات خدمات المركبات"
+msgstr "الصيانة"
 
 #. module: fleet
 #: model_terms:ir.ui.view,arch_db:fleet.fleet_vehicle_cost_indicative_view_graph
