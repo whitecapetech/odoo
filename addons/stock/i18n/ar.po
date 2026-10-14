@@ -2859,7 +2859,7 @@ msgstr "المخزونات"
 #: model_terms:ir.ui.view,arch_db:stock.view_partner_stock_form
 #: model_terms:ir.ui.view,arch_db:stock.view_stock_quant_pivot
 msgid "Inventory"
-msgstr "الجرد"
+msgstr "المخزون"
 
 #. module: stock
 #: model_terms:ir.ui.view,arch_db:stock.view_inventory_form

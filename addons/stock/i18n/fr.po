@@ -2954,7 +2954,7 @@ msgstr "Inventaires"
 #: model_terms:ir.ui.view,arch_db:stock.view_partner_stock_form
 #: model_terms:ir.ui.view,arch_db:stock.view_stock_quant_pivot
 msgid "Inventory"
-msgstr "Inventaire"
+msgstr "Stock"
 
 #. module: stock
 #: model_terms:ir.ui.view,arch_db:stock.view_inventory_form
@@ -6780,7 +6780,7 @@ msgstr "Référence de transfert"
 #: model:ir.ui.menu,name:stock.all_picking
 #: model_terms:ir.ui.view,arch_db:stock.procurement_group_form_view
 msgid "Transfers"
-msgstr "Transferts"
+msgstr "Mouvements de stock"
 
 #. module: stock
 #: model_terms:ir.actions.act_window,help:stock.action_picking_form
